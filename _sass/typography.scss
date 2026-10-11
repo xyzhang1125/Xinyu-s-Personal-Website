@@ -68,6 +68,14 @@
     }
     h2, h3 {
         color: $accent;
+        font-family: $title-font;
+    }
+    // Keep each section below the floated photo.
+    h2 {
+        clear: both;
+    }
+    .subtitle {
+        font-family: $title-font;
     }
     img {
         text-align: center;
