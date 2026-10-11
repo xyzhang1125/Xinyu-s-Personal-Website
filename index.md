@@ -69,30 +69,40 @@ I received an MA in Economics from the University of Chicago and a Bachelor of E
 
 </details>
 
-### Institute of Economics, CASS
+## Research Experience {#experience}
 
-*Research Assistant · Prof. Wenshu Gao* · Jan. 2023 – Jul. 2023
+### Kellogg School of Management, Northwestern University
+
+*Empirical Research Fellow (Predoc) · Working with [Prof. Jacopo Ponticelli](https://jacopoponticelli.com/){:target="_blank"} and [Prof. Sean Higgins](https://seankhiggins.com/){:target="_blank"}* · Jul. 2025 – Present
 {: .subtitle}
 
 <details markdown="1">
 <summary>Details</summary>
+
+- Clean large-scale administrative data and complicated field survey data from emerging markets, such as Brazil, Chile, China, and Mexico.
+- Provide assistance on research design and statistical tests.
+- Apply proper ML, NLP, and AI tools to provide big data evidence on PI's research topics.
+- Produce high-standard replication packages for publication.
+
+</details>
+
+### Institute of Economics, Chinese Academy of Social Sciences
+
+*Research Assistant · Academic Mentor: [Prof. Wenshu Gao](https://se.ucass.edu.cn/info/1022/1276.htm){:target="_blank"}* · Mar. 2021 – Jul. 2023
+{: .subtitle}
+
+<details markdown="1">
+<summary>Details</summary>
+
+**Agricultural labor migration, factor mobility and regional inequality in China** (policy report)
 
 - Built a dataset on China’s domestic trade and labor market from official sources.
 - Cleaned and prepared data for analysis; helped design causal inference strategy.
 - Studied the impact of domestic trade on income inequality.
 
-</details>
-
-### Frontiers Report on Political Economy
-
-*Research Assistant* · Mar. 2021 – May. 2021
-{: .subtitle}
-
-<details markdown="1">
-<summary>Details</summary>
+**Frontiers Report on Political Economy**
 
 - Completed literature and data collection.
-- Contributed to the composition of the literature review.
 
 </details>
 
