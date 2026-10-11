@@ -53,18 +53,25 @@
             }
         }
     }
-    .profile-photo {
+    .profile-card {
         width: $photo-width;
-        height: auto;
         float: right;
         margin: 0 0 15px 20px;
-        border-radius: 4px;
         @media (max-width: $small-width) {
             float: none;
-            display: block;
-            width: 70%;
+            width: 85%;
             margin: 0 auto 15px auto;
         }
+    }
+    .profile-photo {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+    }
+    .profile-links {
+        text-align: center;
+        margin: 8px 0 0 0;
     }
     h2, h3 {
         color: $accent;
@@ -76,6 +83,37 @@
     }
     .subtitle {
         font-family: $title-font;
+    }
+    .justify {
+        text-align: justify;
+        hyphens: auto;
+    }
+    details {
+        margin: -5px 0 15px 0;
+    }
+    summary {
+        display: inline-block;
+        cursor: pointer;
+        font-family: $title-font;
+        font-size: 14px;
+        color: $accent;
+        border: 1px solid $accent;
+        border-radius: 4px;
+        padding: 1px 8px;
+        list-style: none;
+    }
+    summary::-webkit-details-marker {
+        display: none;
+    }
+    summary::before {
+        content: "+ ";
+    }
+    details[open] > summary::before {
+        content: "- ";
+    }
+    summary:hover {
+        background: $accent;
+        color: white;
     }
     img {
         text-align: center;
