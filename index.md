@@ -24,45 +24,48 @@ I received an MA in Economics from the University of Chicago and a Bachelor of E
 
 ## Research {#research}
 
-### Invisible Barriers – Gender Wage Gap in Domestic Immigrants
+### Can Personal Income Tax Cut Motivate People to Get Married?
 
-*Independent Study · Supervised by Prof. Qiong Wang & Ph.D. Abdoulaye Cisse* · Aug. 2022 – Present
+*Supervised by [Prof. Weiguang Deng](https://cet.hnu.edu.cn/info/1207/9933.htm){:target="_blank"} & [Prof. Srinivasan Vasudevan](https://www.linkedin.com/in/srinivasan-vasudevan-15975110){:target="_blank"}* · Work in Progress · [Email to request draft](mailto:xinyu.zhang1@kellogg.northwestern.edu)
 {: .subtitle}
 
 <details markdown="1">
 <summary>Details</summary>
 
-- Estimated the gender wage gap among rural-to-urban migrants in China.
-- Found male migrants earn wages comparable to native urban males, while females face lower wages.
-- Revealed dynamic effects of migration years and heterogeneity by income levels.
+**Abstract:** This paper examines whether personal income tax cuts have impact on individuals’ marriage decisions through the 2011 tax reform in China. Using personal and household-level data from the China Household Finance Survey (CHFS) and an RD design, this paper finds that tax cuts significantly increase the probability of marriage among low-income women near the lowest tax threshold, with an estimated effect size of 3–4 percentage points. In contrast, no robust significant effect is detected for men. A series of robustness checks confirm the stability of these findings. The results suggest that direct income increases, even under a withholding tax system without joint filing, can positively affect marriage, particularly among low- and middle-income women. These findings contribute to understanding the economic determinants of marriage and provide insights for policymakers trying to address the low marriage and fertility challenge.
+{: .justify}
+
+**Presented at:** Yale Predoc Conference (2026); UChicago MA Research Seminar (2025)
+
+</details>
+
+### Invisible Barriers – Gender Wage Gap in Domestic Immigrants
+
+*Undergraduate Thesis · Supervised by [Prof. Qiong Wang](http://ie.cssn.cn/kygz/zaizhixuezhe/202510/t20251028_5921220.shtml){:target="_blank"} & [Abdoulaye Cisse](https://www.acisse.com/){:target="_blank"}* · Working Paper
+{: .subtitle}
+
+<details markdown="1">
+<summary>Details</summary>
+
+**Abstract:** This paper utilizes pooled cross-sectional data from the Chinese General Social Survey (CGSS) spanning 2010 to 2018 to examine the gender wage gap among rural migrants who have acquired non-agricultural hukou. This paper employs strategies such as Oaxaca-Blinder decomposition and quantile regression, finding that the gender wage gap is more pronounced among rural migrants with urban hukou compared to the people who grew up in urban areas. Specifically, females face the dual challenges of “newcomers” and “gender”. After analyzing the data, 51.7% of the gender wage gap among rural migrants with urban hukou can be attributed to potential discrimination, which is approximately 13 percentage points higher than that of long-term urban residents. Moreover, the gender wage gap is more significant among high-income workers and those with longer working experience in the city, indicating that female rural migrants encounter higher barriers to urban integration and face a potential glass ceiling.
+{: .justify}
+
+**Presented at:** National Development Economics Conference for Students (2024, Best Undergraduate Paper Award); UCASS Student Research Seminar (2023, 2024, Best Undergraduate Thesis Award); Berkeley Upper Level Research Course (Econ 191) Selected Paper Presentation (2022)
 
 </details>
 
 ### Do International Students in China Promote Trade?
 
-*Independent Study · Supervised by Prof. Weiwei Wang* · Nov. 2021 – Present
+*Undergraduate Research Project · Joint with [Xin Ouyang](https://xinouyang.com/){:target="_blank"}* · Resting Project
 {: .subtitle}
 
 <details markdown="1">
 <summary>Details</summary>
 
-- Used Shift-Share IV to identify trade promotion effects brought by international students.
-- Highlighted mechanisms via self-funded students and elite training program participants.
-- Managed the entire research pipeline including topic design, data, analysis, and presentation.
+**Abstract:** This study examines trade promotion effect of international students in China through a shift-share IV using the panel data of import and export between China and 53 countries along the Belt and Road from 1999 to 2020. The research results indicates that the increase of international students studying in China can significantly improve China’s trade, especially exports. This promotion effect remains robust after controlling for external shocks like financial crises, though it needs a continuous students’ flow to form the social network. Furthermore, the international students driven by incentive policies such as scholarships have no significant effect on trade growth. As further discovering the mechanism, this paper validates traditional social network theory while also uncovering a unique trade promotion mechanism to China’s development. The discovery emphasizes the important role of elite training programs held by Chinese Government.
+{: .justify}
 
-</details>
-
-### Hunan University
-
-*Research Assistant · Prof. Weiguang Deng* · Jul. 2023 – Jun. 2024
-{: .subtitle}
-
-<details markdown="1">
-<summary>Details</summary>
-
-- Cleaned and merged large-scale survey data (China Household Finance Survey).
-- Contributed to the design of causal inference using Regression Discontinuity Design (RDD).
-- Estimated model using Stata and conducted rigorous robustness checks.
+**Presented at:** Peking University (Economics Department Students’ Conference 2023; National Youth Forum on Economic Development 2023); UCASS Student Research Seminar (2023)
 
 </details>
 
