@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Xinyu Zhang
 ---
 
 ## About Me {#about}
