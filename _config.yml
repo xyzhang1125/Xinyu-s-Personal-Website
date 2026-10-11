@@ -27,6 +27,8 @@ nav:
    link: "/Xinyu-s-Personal-Website/#data"
  - name: "Teaching"
    link: "/Xinyu-s-Personal-Website/#teaching"
+ - name: "Personal"
+   link: "/Xinyu-s-Personal-Website/personal/"
  - name: "CV"
    link: "/Xinyu-s-Personal-Website/assets/cv.pdf"
 
