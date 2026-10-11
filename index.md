@@ -114,16 +114,5 @@ Coming soon.
 
 ### University of Chinese Academy of Social Sciences
 
-*Teaching Assistant · Intro to Econometrics* · Spring 2023
-{: .subtitle}
-
-- Assisted Prof. Qiong Wang in delivering core econometrics concepts and software application (Stata).
-- Supported undergraduate students with coursework, modeling techniques, and empirical projects.
-
-### University of Chinese Academy of Social Sciences
-
-*Teaching Assistant · Political Economy* · Fall 2021
-{: .subtitle}
-
-- Assisted Prof. Chi Zhang in teaching foundational political economy theory and classroom discussions.
-- Helped coordinate class materials and supported student learning activities.
+- Econometrics (business majors) · Teaching Assistant for Prof. Qiong Wang · Spring 2023
+- Political Economy (undergraduate) · Teaching Assistant for Prof. Chi Zhang · Fall 2021
