@@ -81,8 +81,22 @@
     h2 {
         clear: both;
     }
+    // Light gray dividers between sections, and between subsections
+    // within a section (skipping the first subsection under each heading).
+    h2 ~ h2 {
+        border-top: 1px solid #dddddd;
+        padding-top: 20px;
+    }
+    h3:not(h2 + h3) {
+        border-top: 1px solid #eeeeee;
+        padding-top: 15px;
+    }
     .subtitle {
         font-family: $title-font;
+    }
+    // Start below the floated photo.
+    .clear {
+        clear: both;
     }
     .justify {
         text-align: justify;

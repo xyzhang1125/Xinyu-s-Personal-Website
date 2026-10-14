@@ -18,8 +18,11 @@ title: Xinyu Zhang
 I am a Predoc at the Kellogg School of Management, Northwestern University, where I work with Prof. Jacopo Ponticelli and Prof. Sean Higgins. My research interests lie at the intersection of household finance and development economics, with a focus on credit frictions, rural-to-urban migration, and how households and small firms respond to economic shocks and public policy.
 {: .justify}
 
-I received an MA in Economics from the University of Chicago and a Bachelor of Economics from the University of Chinese Academy of Social Sciences (with distinction thesis award). I will be applying to PhD programs in economics and finance in the 2026–27 cycle.
+I received an MA in Economics from the University of Chicago and a Bachelor of Economics from the University of Chinese Academy of Social Sciences (with distinction thesis award).
 {: .justify}
+
+I will be applying to PhD programs in economics and finance in the 2026–27 cycle.
+{: .justify .clear}
 
 
 ## Research {#research}
